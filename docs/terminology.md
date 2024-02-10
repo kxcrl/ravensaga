@@ -31,3 +31,5 @@ There are a few ways that these will be rolled in the game, described as follows
 - A percent roll. Written as d100, this uses two ten-sided dice read left to right. For example, a roll of a 4 on the left and a 5 on the right is a 45. 
 
 **Attribute Modifier**: How far an attribute is above or below 10. For example, a Character with a Strong value of 15 would have a Strength Modifier of 5. Alternatively, with a value of 7 they would have a modifier of -3.
+
+**Success by X**: How far the result of a roll is below a target number. For example, if a skill is level 4, rolling a 1 would be success by 3.

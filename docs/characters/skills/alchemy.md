@@ -8,6 +8,8 @@ has_children: false
 
 ## Alchemy
 
+**Society:** All in some form
+
 All matter may be separated.
 If separated, it may be concentrated.
 If concentrated, it may be amplified.
@@ -23,7 +25,7 @@ Having performed your extraction, you will need an activator. Without this, the 
 Minor activators create minor potions. Most come from mystical remains or the detritus of ritual. The bones of a priest, the ash of a spent scroll. That any who walk an occult path create them by matter of course in their practice makes them not too difficult to find.
 
 Greater activators create greater potions. Splinters of raw magic or shards of powerful corruption. The freshly shed scale of a mother Lindworm, the feasting web of an Etterherd cocoon.
-That they are not the prize of a successful hunt, but instead have been carefully borrowed from the ecosystem of something living, makes them exceedingly rare.
+They are not the prize of a successful hunt, but instead have been carefully borrowed from the ecosystem of something living, making them exceedingly rare.
 
 
 Potions you create will have a known effect, based on their final purity. For example, a potion of cure light wounds may heal 3 toughness.
