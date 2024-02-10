@@ -1,12 +1,12 @@
 ---
-title: Pariah
+title: Prophetic
 layout: default
 parent: Traits
 grand_parent: Characters
 has_children: false
 ---
 
-## Pariah
+## Prophetic
 
 _A ripple may become a wave._  
 _You will hear its echoes._  

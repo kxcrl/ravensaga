@@ -16,4 +16,5 @@ By attuning themselves to the lower world, a prismatic dance of light radiates a
 The deep reds and browns of living creatures, verdant greens of nature, silver and gold of mineral and machine.  
 So, too, by contrast, are those things visible which do not shed light. Thick, oil dripping silhouettes that consume all radiance around them. Darkness and death.
 
-Opening themselves to this is not without great risk and floods the practitioner with 1d6 corruption for each turn they spend viewing the world in this way.
+Opening themselves to this is not without great risk.  
+The practitioner is flooded with 1d6 corruption for each turn they spend viewing the world in this way.
