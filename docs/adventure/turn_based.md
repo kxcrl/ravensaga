@@ -1,29 +1,13 @@
 ---
 layout: default
-title: Time
+title: Turn-Based
 parent: Adventure
-permalink: /adventure/time
+nav_order: 2
 ---
 
-# Time
+# Turn-Based
+In situations of high danger or drama, every second counts.
 
-Scenes occur with three levels of granularity: Montage, Exploration, and Segmented.
-
-## Montage
-- At the highest level, hours or even an entire day may pass with only a few actions being narrated.
-- Traveling long distances, crafting complex items, studying, training, or other periods where the actions of the characters do not vary during them should be passed over as montages.
-- This will cause the quickest depletion of supplies, as well as the greatest number of potential encounters with any wandering danger that may be in the area. The GM should be sure to track and roll for both. 
-- If there is any possibility of a situation requiring attention or careful interaction, no matter how small, the montage should stop.
-
-## Exploration
-- The most common speed of play, actions here are described as turns, with anyone acting in any order.
-- A turn describes 10 minutes of game time.
-- After every action or two, the GM should mark of one turn on their sheet and let the Players know that a turn has passed.
-- The GM should also be sure to mark off torches, check for wandering encounters, or advance anything else that may be taking place in the background.
-
-
-## Turn-Based
-- In situations of high danger or drama, every second counts.
 - If a trap is unleashed, a weapon swung, an accusation made, or any other significant event where each moment could change the outcome of a scene, the GM should announce that they are **stopping the clock**.
 - Actions proceed as rounds in which 10 segments occur in order.
 - Each player should declare their intention at the beginning of the round and may not change it. Setting a d10 on a specific number in front of each player may help with this.
@@ -44,9 +28,8 @@ Scenes occur with three levels of granularity: Montage, Exploration, and Segment
 If acting on any segment other than Dash, a character may also move a distance equal to their lowest movement speed as part of their action.
 
 **Using weaponry**  
-Check [Accurate⟵Quick] to determine target number  
-Reduce the target number by the defense value of any armor being worn by the defender  
-Roll 1d20, add any amount below target to base damage, subtract any above  
+Check Accurate ± Defense to determine target number  
+Roll 1d20, add any amount below the target number to base damage, subtract any above  
 
 **Moving in Range**  
 If anything moves in range of a combatant, they can choose to make a free hasty attack, but they forfeit their next action if they do so.  

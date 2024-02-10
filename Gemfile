@@ -3,6 +3,12 @@ ruby "3.2.2"
 
 gemspec
 
-gem "jekyll-github-metadata", ">= 2.15"
-gem "jekyll-include-cache", group: :jekyll_plugins
-gem "html-proofer", "~> 5.0", :group => :development
+group :jekyll_plugins do
+  gem "jekyll-github-metadata", ">= 2.15"
+  gem 'jekyll-redirect-from'
+  gem 'jekyll-include-cache'
+end
+
+group :development do
+  gem 'html-proofer', '~> 5.0'
+end

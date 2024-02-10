@@ -6,3 +6,5 @@ has_children: true
 ---
 
 # Adventure
+
+Scenes occur with two levels of granularity: Exploration and Turn-Based.
