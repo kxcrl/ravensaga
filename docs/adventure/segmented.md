@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Turn-Based
+title: Segmented
 parent: Adventure
 nav_order: 2
 ---
 
-# Turn-Based
+# Segmented
 In situations of high danger or drama, every second counts.
 
 - If a trap is unleashed, a weapon swung, an accusation made, or any other significant event where each moment could change the outcome of a scene, the GM should announce that they are **stopping the clock**.
@@ -18,9 +18,9 @@ In situations of high danger or drama, every second counts.
 1. **Dash** - Move at a character's full movement rate
 1. **Hasty Action** - Quickly perform an action with disadvantage
 1. **Recover** - Gain 2 HP
-1. **Treat** - Attempt to remove a status effect
+1. **Resist** - Attempt to remove an effect
 1. **Standard Action** - Use any skill or perform any action as normal
-1. **Slow Action** - Use any skill requiring a large, heavy, two-handed, or slow object
+1. **Slow Action** - Use any skill requiring a large, heavy, two-handed, or otherwise slow item
 1. **Ability** - Use any ability
 1. **Focused Action** Perform an action with advantage
 
