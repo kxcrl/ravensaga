@@ -12,5 +12,5 @@ has_children: false
 
 Recognize artifacts, locations, creatures, and persons from legend and lore.
 
-**Success by 3**
+**Success by 3**  
 Recall a lesser known event, ability, curiosity, or danger.
