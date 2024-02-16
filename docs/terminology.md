@@ -53,3 +53,7 @@ You may, of course, resolve diagonals however you wish. There are many theories 
 Alternatively, you may use a hex grid. These options will not significantly change your experience, so use whatever feels best.
 
 **1/1'** is read as "1 per 1 square" and will usually be encountered as an ability cost, where it means, for example, 1 Corruption for every 1 square of distance.
+
+Throughout your adventure, you will lose **HP** and gain temporary **Corruption**. Both recover at the rate of 1 point per hour (every 6 turns).  
+Any points of Corruption beyond your character's Corruption Threshold instantly become permanent. These points are never reduced.  
+Many other things may cause damage directly to your Attributes. These heal at 1 point per day.
