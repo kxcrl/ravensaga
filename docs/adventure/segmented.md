@@ -43,9 +43,18 @@ A character can choose to wait and act later in the current segment or in a late
 **Knocked Off-Guard**  
 If a character takes more damage than their Pain Threshold, they are knocked off guard and must Ready as their next action
 
-**Ties for Segment Order**
+**Ties for Segment Order**  
 First, whoever is Quickest  
 If Quick is tied, then whoever is most Vigilant  
 If Vigilant is also tied, then whoever is most Discrete  
 If Discrete is also tied, choose at random
 
+**Dying**  
+If HP is reduced to 0 or less, damage is subtracted from Strength  
+Afterward, a Strength check must be made  
+If succeeded, the character perseveres  
+If failed, the character is dying  
+They can no longer take actions  
+They lose 1 point of Strength at the end of each round  
+Any additional damage is subtracted from Strength  
+If their Strength reaches 0, they are dead
