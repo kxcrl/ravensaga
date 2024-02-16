@@ -3,7 +3,6 @@ title: Equipment
 layout: default
 parent: Items
 grand_parent: Characters
-nav_order: 2
 has_children: false
 ---
 

@@ -3,7 +3,6 @@ title: General
 layout: default
 parent: Items
 grand_parent: Characters
-nav_order: 1
 has_children: false
 ---
 
