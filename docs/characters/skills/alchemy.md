@@ -34,7 +34,7 @@ The same potion found in the wild will be unknown, so it will heal 1d6.
 
 A merchant selling the same potion may have enough alchemy skill to guarantee at least a certain effectiveness. The same potion purchased from them may heal 1d6, minimum 3. This will be written as 1d6:3.
 
-Determining this effectiveness requires a bit of math. The table of alchemical plants lists the maximum effect. At purity -5, you will achieve 5% of this. At -4, 10%. At -3, 20%. At -2, 50%. At -1, 75%. At 0, 100%.
+Determining this effectiveness requires a bit of math. The table of alchemical plants lists the maximum effect. At purity -5, you will achieve 15% of this. At -4, 30%. At -3, 50%. At -2, 70%. At -1, 85%. At 0, 100%.
 
 Using a greater activator will triple the effect. A potion of cure serious wounds found in the wild will heal 3d6 toughness.
 
