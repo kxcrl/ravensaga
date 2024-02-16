@@ -11,7 +11,7 @@ _Lay your flat palm across the soft earth_
 _None will resist its invitation_
 
 **Rank:** II  
-**Cost:** Corruption, 1/turn of effect
+**Cost:** Corruption, 1/turn of effect  
 **Range:** Any, but exact location must be known  
 **Known By**: Sorcerers, Witches
 

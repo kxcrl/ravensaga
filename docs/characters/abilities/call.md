@@ -11,7 +11,7 @@ _It was never in any other hand_
 _But yours_
 
 **Rank:** I  
-**Cost:** Corruption, 1/1' + item size  
+**Cost:** Corruption, item size and 1/1' distance
 **Range:** Visible  
 **Known By**: Sorcerers
 

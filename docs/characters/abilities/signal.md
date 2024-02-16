@@ -11,7 +11,7 @@ _Speak to me_
 _Wordless, wherever you are_
 
 **Rank:** I  
-**Cost:** Corruption, 1 for every word
+**Cost:** Corruption, 1 for every word  
 **Range:** Unlimited  
 **Known By**: Wizards
 
