@@ -10,3 +10,7 @@ has_children: false
 
 **Society**: Human
 
+Recognize artifacts, locations, creatures, and persons from legend and lore.
+
+**Success by 3**
+Recall a lesser known event, ability, curiosity, or danger.
