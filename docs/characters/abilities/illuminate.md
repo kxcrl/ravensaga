@@ -10,8 +10,8 @@ has_children: false
 _Faith holds no shadows_
 
 **Rank:** I  
-**Corruption:** 1/1'
-**Range:** Visible
+**Cost:** Corruption, 1/1'  
+**Range:** Visible  
 **Known By**: Theurgs
 
 An area is fully illuminated, as if by the light of an unwavering flame.

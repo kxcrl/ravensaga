@@ -12,7 +12,7 @@ _You've always known me._
 _You've known no other._
 
 **Rank:** III  
-**Corruption:** 1d4 + special  
+**Cost:** Corruption, 1d4 + special  
 **Range:** Any creature looking at the mystic  
 **Known By**: Cultists, Witches
 

@@ -11,11 +11,13 @@ _Where it sits, let it be bound._
 _A permanence in the air, immutable._
 
 **Rank:** II  
-**Corruption:** 1 per 1' of object size  
+**Cost:** Corruption, 1 for every 1' of object size  
 **Range:** Any visible object  
 **Known By**: Theurgs, Witches
 
 Looking at an object, the mystic makes a fist with an empty hand.  
 As long as their fist remains closed, nothing may lift, rotate, or otherwise move the object.  
-This includes any form of damage.  
-Any attempt to do so requires the mystic to pass a Resolute check or again suffer the ability cost to continue.
+This includes any form of damage.
+
+Should something attempt to do, the mystic must pass a Resolute check or again suffer the ability cost.  
+If they do not or cannot, the object responds as normal.

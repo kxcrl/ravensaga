@@ -10,6 +10,7 @@ has_children: false
 _Attune your soul to the flow of distortion, let it wash within you, see the world's shadow._  
 
 **Rank:** I  
+**Cost**: Corruption, 1d6  
 **Known By**: Sorcerers, Wizards, Witches, any who sacrifice themselves to a dark god  
 
 By attuning themselves to the lower world, a prismatic dance of light radiates across whatever is being viewed, revealing its shadow.  

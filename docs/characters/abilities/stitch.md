@@ -10,11 +10,11 @@ has_children: false
 _Woven together, fibers of being, as one._
 
 **Rank:** II  
-**Corruption:** 1d4
-**Range:** Visible
+**Cost:** Corruption, 1d4  
+**Range:** Visible  
 **Known By**: Witches
 
-The mystic spreads their arms wide, pulls them together, and interlocks the fingers of their empty hands._
+The mystic spreads their arms wide, pulls them together, and interlocks the fingers of their empty hands.  
 Any two adjacent objects blend into a seamless, gradient whole.  
 They must be roughly the size of the caster or smaller or the ability cost is doubled (or tripled for truly large things).
 

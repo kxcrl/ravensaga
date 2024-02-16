@@ -10,7 +10,7 @@ has_children: false
 _Gaze into them, and in your eyes let them see their fate._  
 
 **Rank:** II  
-**Corruption:** 1d4/turn
+**Cost:** Corruption, 1d4/turn  
 **Known By**: Witches, Cultists, shadow creatures
 
 Any who look into the Witch's eyes have disadvantage on all actions.  
