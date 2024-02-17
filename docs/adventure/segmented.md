@@ -28,10 +28,14 @@ Mod | Action          | Description
 **Movement**  
 If acting on any segment other than Dash, a character may also move a distance equal to their lowest movement speed as part of their action.
 
-**Using weaponry**  
+**Using Weaponry**  
 Check Accurate ± Defense to determine the target number  
 Roll 1d20. Each point below the number is damage, up to the weapon's maximum.  
 Above the target, the attack misses or fails to pierce the target's defense.
+
+**Shields and Helmets**  
+A shield provides 1 defense and may be discarded (destroyed) to negate a single attack
+A helmet provides no defense, but may be discarded to negate a deadly attack
 
 **Moving in Range**  
 If anything moves in range of a combatant, they can choose to make a free hasty attack, but they forfeit their next action.  
@@ -41,7 +45,7 @@ This includes actions that may happen next round if they have already acted.
 A character can choose to wait and act later in the current segment or in a later segment
 
 **Down**  
-If a character takes more damage than their Pain Threshold, they are Down and must Ready as their next action
+If a character takes more damage than their Pain Threshold in a single strike, they are Down and must Ready as their next action
 
 **Ties for Segment Order**  
 First, whoever is Quickest  

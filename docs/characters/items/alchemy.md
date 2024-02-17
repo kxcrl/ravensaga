@@ -48,8 +48,8 @@ Cedar, Bark         | [I] Turn undead, X'
 Chamomile, Flowers  | [E] Sleep, X turns<br />[S] Merchant affinity, (X * 2)% discount when haggling, 1 day
 Chrysanthemum, Flowers | [E] Close portal, X turns<br />Pour onto surface, do not drink
 
-† Entire plant must be harvested
-‡ Above ground portion of plant must be harvested
+† Entire plant must be harvested  
+‡ Above ground portion of plant must be harvested  
 E: Elixir, I: Incense, S: Soap
 
 Cinnamon       |
