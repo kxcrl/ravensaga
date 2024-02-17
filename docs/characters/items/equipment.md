@@ -53,3 +53,13 @@ Bolts, light (20)  | +0 | 0* | 2.00
 Stones, sling (20) | +0 | 0* | 0.00
 
 \* Every additional 20 ammunition beyond the first requires 1 slot
+
+<br />
+
+Armor         | Defense | Size | Cost
+        | +0 | 0* | 2.00
+  | +1 | 1 | 2.00
+  | +0 | 0* | 2.00
+ | +0 | 0* | 0.00
+
+\* Helmets block the ears and peripheral vision, reducing Vigilant by 1

@@ -9,7 +9,7 @@ has_children: false
 
 You will need a **Game Master** (GM). A person who abides by the rules and remains entirely neutral in describing and adjudicating the game world. Though they carry great hope for the players at every step, they do nothing to sway fate, and allow the players to live and breathe in the game world as they will.
 
-You will need at least one, and maybe many more **Players**. They will create characters and send them off to adventure in the game world. Those characters may attempt any action that can be imagined, and the GM will describe the outcome of that attempt. Said another way, the players act and the GM reacts.
+You will need at least one, and maybe many more **Players**. They will create characters and send them off to adventure in the game world. Those characters may attempt any action that can be imagined, and the GM will describe the outcome of that attempt. The players act and the GM reacts.
 
 You will need, lastly, some dice, which use the following notation:
 
@@ -50,10 +50,19 @@ Some acts will be obviously longer and some obviously shorter, but it will all b
 
 No exceptions are intended to be made for diagonals. One square over followed by one square up or down is two squares, 20 feet.  
 You may, of course, resolve diagonals however you wish. There are many theories and much more complex systems for doing so.  
-Alternatively, you may use a hex grid. These options will not significantly change your experience, so use whatever feels best.
+Alternatively, you may use a hex grid.  
+These options will not significantly change your experience, so use whatever feels best.
 
 **1/1'** is read as "1 per 1 square" and will usually be encountered as an ability cost, where it means, for example, 1 Corruption for every 1 square of distance.
+
+All basic actions and effects that are the result of normal events are referred to as **Mundane**.  
+All fantastic, mystical, or otherworldly effects are referenced as **Distortion**.  
+If distortion is expressly damaging or destructive, it is referred to as **Corruption**.  
+Someone who practices sorcery may experience distortion reverberating through a wall as they witness strange effects in an underground room.  
+They may then experience Corruption within their own body by attempting to control it.
 
 Throughout your adventure, you will lose **HP** and gain temporary **Corruption**. Both recover at the rate of 1 point per hour (every 6 turns).  
 Any points of Corruption beyond your character's Corruption Threshold instantly become permanent. These points are never reduced.  
 Many other things may cause damage directly to your Attributes. These heal at 1 point per day.
+
+Drinking multiple elixirs causes **Side Effects**. See **table** for more information.
