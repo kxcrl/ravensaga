@@ -27,7 +27,15 @@ There are a few ways that these will be rolled in the game, described as follows
 - A roll with advantage. Whatever is being rolled, roll it twice and take the better of the two numbers.
 - A roll with disadvantage. Whatever is being rolled, roll it twice and take the worse of the two numbers.
 
+**Skill Check**: A roll of 1d6. A value equal to or less than the skill is considered a success.
+
+**Untrained Skill Check**: If a character has more than 10 in a skill's primary attribute, they may attempt it untrained and succeed on a 1. The results of failure are worse than they would be normally. For example, a trained climber may be unable to proceed, an untrained climber would fall.
+
+**Attributes**: Some of the innate qualities of a character as a result of the life they lived before adventuring. How Accurate, Cunning, Discrete, Persuasive, Quick, Resolute, Strong, and Vigilant they are. Expressed as a range from 3 to 18.
+
 **Attribute Modifier**: How far an attribute is above or below 10. For example, a Character with a Strong value of 15 would have a Strength Modifier of 5. Alternatively, with a value of 7 they would have a modifier of -3.
+
+**Attribute Check**: In situations where characters directly oppose other characters, an attribute check may be used to settle disputes by rolling equal to or under the attribute minus the opposed modifier. For example, a very friendly and good natured character may attempt to convince a frightened person on the other side of a door to let them in a room. The character's Persuasive score of 15 minus the fairly stubborn person's Resolute modifier of 3 means that if the character rolls a 12 or less, they succeed and the frightened person unbars the door.
 
 **Success by X**: How far the result of a roll is below a target number. For example, if a skill is level 4, rolling a 1 would be success by 3.
 

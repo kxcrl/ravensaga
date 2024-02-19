@@ -8,7 +8,7 @@ has_children: false
 
 # Attributes
 
-_How capably can the prism of your capacities focus the will of your intent?_
+_How capably can the lens of your capacities focus the will of your intent?_
 
 Each is determined at character creation by rolling 3d6.
 

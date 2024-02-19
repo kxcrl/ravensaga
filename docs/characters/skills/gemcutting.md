@@ -10,5 +10,12 @@ has_children: false
 
 **Society**: Human
 
-Take an hour to change the grade of a gem to the rolled value.  
-On a failure, the gem is cracked and reduced to half its raw value.
+Take an hour to improve the grade of a cut gem by one, to a maximum of the skill's value.  
+On a failure, the gem is fractured and reduced to half its uncut value.
+
+- | Grade      | Value
+1 | Rough      | +10%
+2 | Fair       | +25%
+3 | Refined    | +50%
+4 | Exquisite  | +75%
+5 | Immaculate | +100%

@@ -31,7 +31,8 @@ If acting on any segment other than Dash, a character may also move a distance e
 **Using Weaponry**  
 Check Accurate ± Defense to determine the target number  
 Roll 1d20. Each point below the number is damage, up to the weapon's maximum.  
-Above the target, the attack misses or fails to pierce the target's defense.
+Above the target, the attack misses or fails to pierce the target's defense.  
+Exactly equal to the target, the attack is a critical hit and deals the weapon's maximum, ignoring any mundane defense.  
 
 **Shields and Helmets**  
 A shield provides 1 defense and may be discarded (destroyed) to negate a single attack
