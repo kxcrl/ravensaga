@@ -7,7 +7,7 @@ nav_order: 3
 
 # Dice
 
-**1. Uncertainty**
+**1. Uncertainty**  
 When firing an arrow, it bends around the frame of the bow as it is loosed. It wobbles and wavers on the way to its target, giving a greater and greater area of where it might land the further it travels. There has never been any bow so well known, or any set of arrows that so perfectly crafted, whether from ancient or futuristic materials, that this disappears.
 
 There is chaos in the system.  
@@ -25,7 +25,8 @@ Whatever they were focusing on previously, they will likely stop doing so and st
 If there's real risk or danger, this is a good thing.  
 But if there isn't something actually there to find or understand, trying to will be confusing at best.
 
-**2. Probability**
+**2. Probability**  
 Skill checks are rolled on a d6, which means a level 1 skill will succeed about 17% of the time.
 
-**3. Result**
+**3. Result**  
+Considering the uncertainty and the probability above, determine what failure would look like and tell the player before they make the roll.
