@@ -70,8 +70,9 @@ Someone who practices sorcery may experience distortion reverberating through a 
 They may then experience Corruption within their own body by attempting to control it.
 
 Throughout your adventure, you will lose **HP** and gain temporary **Corruption**. Both recover at the rate of 1 point per hour (every 6 turns).  
-Any points of Corruption beyond your character's Corruption Threshold instantly become permanent. These points are never reduced unless by exceptional means.  
 Many other things may cause damage directly to your Attributes. These heal at 1 point per day.
+Any points of Corruption beyond your character's Corruption Threshold instantly become permanent. These points are never reduced unless by exceptional means.  
+Whenever a character gains permanent Corruption, they must pass a Resolute check or take that much damage. If this reduces their HP to 0 or less, they are consumed.
 
 Some abilities and effects have an **Ongoing Cost** in order to keep them active beyond a single turn.  
 If it is HP, then the character's maximum HP is reduced by that amount.  
