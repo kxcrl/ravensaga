@@ -11,7 +11,7 @@ nav_order: 4
 When making a skill check, if the character succeeds by rolling a 1, they may spend 10xp to immediately improve the skill.
 
 **Improvement by Affinity**  
-For every 5 skills a player possesses that all have the same attribute, they may improve that attribute by 1.  
+For every 5 skills a player possesses that all have the same primary attribute, they may improve that attribute by 1.  
 It is recommended in this case to remove the Attribute Focus ability from the game.
 
 **Predisposition**  
@@ -24,7 +24,14 @@ Subsequent levels are 10xp, as normal.
 Occasionally, just rolling a skill check will give the player information as if it had succeeded. For instance, a player moves into a room and has to see if they are moving silently or hidden by shadows or is able to detect nearby traps.  
 To keep things more surprising, the GM may make these rolls in secret as the players are moving and only share the results if there is a consequence.
 
-**Mutative Corruption**
+**Hirelings and Retainers**  
+Characters may bring a number of NPCs with them on their adventure equal to or less than their Persuasive mod.  
+They must agree to a price that the Retainer will be paid daily, and the Retainer must be paid each day.  
+Each will have a Loyalty score, ranging from 1 to 10. In the case of a hired professional, this can be set to 5. If the first encounter is in the wild, roll a 1d10 to determine their Loyalty.  
+Anytime the character does something that the Retainer dislikes, lower it by one. If it is less than six, roll a 1d6. If the result is equal to or less than their Loyalty score, they will voice their disapproval, but will continue to follow the character. Otherwise, they will leave. This doesn't mean they will turn against the character, only that they will stop actively following them and go their own way.  
+Treating the Retainer especially well, offering them a portion of treasure, or increasing their pay rate may each raise the Loyalty score by 1 and require a failed Loyalty check to be re-rolled. However, better options for these actions will likely emerge in the fiction.
+
+**Mutative Corruption**  
 Instead of dealing damage to HP when a character fails their Resolute check, you may take the failure amount, add it to the total of their current temporary and permanent corruption, then roll a 1d4 and consult the following table.
 
 --  | 1 - Senses    | 2 - Body    | 3 - Mind     | 4 - Shadow
