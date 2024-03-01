@@ -31,6 +31,28 @@ Each will have a Loyalty score, ranging from 1 to 10. In the case of a hired pro
 Anytime the character does something that the Retainer dislikes, lower it by one. If it is less than six, roll a 1d6. If the result is equal to or less than their Loyalty score, they will voice their disapproval, but will continue to follow the character. Otherwise, they will leave. This doesn't mean they will turn against the character, only that they will stop actively following them and go their own way.  
 Treating the Retainer especially well, offering them a portion of treasure, or increasing their pay rate may each raise the Loyalty score by 1 and require a failed Loyalty check to be re-rolled. However, better options for these actions will likely emerge in the fiction.
 
+**Exploration Experience**  
+If you intend to spend a large amount of time in a dangerous area, or one where clever actions take precedence over more social role playing, you may use the following list to continue granting XP during the session.  
+Each item listed is intended to grant 2XP, though you may reduce this to 1XP if it is unusually minor (unlocking a chest), or raise it to 5XP if it is uniquely risky or dramatic (overcoming a dungeon's greatest obstacle).
+
+\- Escape a trap unscathed  
+\- Discover a location of historical significance  
+\- Fulfill a promise of action made to an NPC  
+\- Prove (or disprove) an NPC's story  
+\- Find something secret or intentionally hidden  
+\- Reveal the meaning or purpose of a significant location or item  
+\- Convince an NPC to act in your benefit  
+\- Bargain with an NPC to gain an advantage or reveal an insight  
+\- Explore a distinct, previously unknown level or area (at least a few rooms beyond the entrance)  
+\- Camp safely through a night (or other period of several hours)  
+\- Overcome a significant danger in the environment (weather or conditions)  
+\- Successfully use an item in an unintended or unorthodox way to accomplish a task
+
+**Spirit of Cooperation**  
+If you or your group wish to foster a less competitive environment, you may step down the amount of XP gained in a situation and award it to all players present instead of one.  
+For example, instead of awarding 2XP to the single character who accomplished it, an action awards 1XP to all characters present. (Or 2XP to all characters instead of 5XP.)  
+You may also use this only on occasion instead of replacing single character rewards entirely. For example, a situation where one character is taking the lead, but multiple characters participate in the actions to follow.
+
 **Mutative Corruption**  
 Instead of dealing damage to HP when a character fails their Resolute check, you may take the failure amount, add it to the total of their current temporary and permanent corruption, then roll a 1d4 and consult the following table.
 
