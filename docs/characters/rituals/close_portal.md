@@ -10,7 +10,7 @@ has_children: false
 _None step through, not even us_
 
 **Requirements**  
-Carve symbols of Hold and Immutable along the entirety of the portal's edge, including the floor
+Carved symbols along the entirety of the portal's edge, including the floor  
 Anything with which to make a hand print on the portal barrier's surface (door, portcullis, rune covered wall, etc)
 
 **Vessel**  
