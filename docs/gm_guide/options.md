@@ -68,3 +68,32 @@ Instead of dealing damage to HP when a character fails their Resolute check, you
 18  | ... | Reassembled. Swap two attributes.<br />1d8 to determine (reroll on match) | Cascading loss. Roll 1d6 for each skill and ability.<br />On 3 or less, remove it. | ...
 19  | Sharpened by nightmares. 1d6 damage. Reroll Vigilant as 4d6 (max 18) | Reforged by warp. 1d6 damage. Add 1d6 to max Accurate, Discreet, Quick, or Strong (1d4 to determine). | Unwavering focus. 1d6 damage. +1 to max Cunning (max 18) | Reborn in darkness. Remove all corruption. Change Corruption Threshold equal to Resolute. If it is ever exceeded, permanently lose control of the character.
 20+ | Incomprehensible. Reroll max Discreet and max Vigilant as 1d6. | Inversion. 1d20+10 damage.<br />Reroll Strong and Quick as 1d6 if survived. | Shatter. Reroll Cunning and Resolute as 1d6. | Dissolution. Character dies.
+
+**Area Destabilization**  
+If more than 20 points of Corruption are spent by characters and NPCs in an area, the excessive distortion destabilizes it.  
+Roll d100 and consult the following table.
+
+\# | Result        | Effect
+BL | Bleed         | Anything within slowly leaks without. Chests pour contents, packs drop items (1d4/round), plants drip water, characters lose blood (1d4 damage).
+CO | Combustion    | Each round a random object begins to smoke. Unless removed from the area, it ignites in the next.
+CO | Command       | Each character must make a RES check. Those who fail become enthralled to those who passed until they leave the area.
+CO | Conflagration | Erupting in to violent flame, everything in the room is consumed. 1d4 rounds of immense heat beforehand serves as warning.
+DI | Dislocate     | An exit (or a cardinal direction, in an open area) leads somewhere else. It may still be entered as normal.
+FI | Firestorm     | Like slow, thick droplets of rain, fire pools together and falls from above (2 damage per round, anything flammable burns).
+FL | Flood         | The area is underwater. Maximum 10' height, 10' width. Stops at walls, ceilings, and portals. Forms a vertical wall of water in open spaces.
+FR | Freeze        | In a flash, all is coated in ice. Characters must pass a STR check to break free.
+GA | Gate          | A hole tears through space leading to a random nearby location.
+GR | Gravity Well  | All weight increases dramatically. STR check at beginning of any segment or the character is pulled to the ground and spends the segment fighting to stand up.
+LE | Lethargy      | Make a Resolute check to crawl at half speed. Otherwise, sleep for one round. No other action may be taken.
+LI | Lightveins    | Bright, thin roots spread outward, marbling the air. The entire space is illuminated to an almost blinding degree, leaving no shadows. All things pass through them as if they were non-existent.
+MA | Mass Mutation | Every living thing in the room rolls 1d20 and consults the Mutative Corruption table.
+RE | Refraction    | Visual information swims and sways (-5 to anything relying on sight).
+SH | Shatter       | As a ball through glass, part of a surface breaks away, leaving massive cracks spidering across every other surface. May open to neighboring rooms, floors, etc.
+SI | Silent        | No sound can be made. Anything beyond may still be heard.
+SO | Soak: Oil     | Precipitating like dew, a random mix of oils and fats coat every surface (slick, flammable).
+SO | Soak: Water   | In an instant, the aftermath of a day long rainstorm. Fires are doused.
+TH | Thunderstorm  | Thick fog fills the area, lightning strikes a random target each round (1d12 damage).
+TI | Timewaves     | Each round, QUI is randomly halved or doubled. Reverse the effect if a character moves.
+UN | Unmoor        | No longer bound by gravity, everyone and everything floats. Characters and objects may get stuck in open spaces if their momentum is halted.
+VA | Vanish        | Everything in the area is invisible. Anything beyond may still be seen.
+VI | Violent Wind  | Whipping in all directions, all light objects become projectiles (persistent, random target, 1d4 damage).
