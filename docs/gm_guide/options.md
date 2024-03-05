@@ -14,6 +14,13 @@ When making a skill check, if the character succeeds by rolling a 1, they may sp
 For every 5 skills a player possesses that all have the same primary attribute, they may improve that attribute by 1.  
 It is recommended in this case to remove the Attribute Focus ability from the game.
 
+**Grappling**  
+If a character dives onto, tackles, lands on, or otherwise wrestles with a character that's within range of them, they initiate a grapple.  
+While grappling, a character may only attack the person they are currently grappling, and only using fists or small weapons (daggers, darts, arrows, etc).  
+Neither character may move unless they break the grapple. To do so requires a Strong check ± the opposing character's Strong mod. On either success or failure, the opposing character gets a free attack.  
+If attacking from the outside, characters do not miss unless they roll a 19 or 20. Instead, points above the target number inflict damage on the other character currently being grappled. If there is more than one, choose from among them at random.  
+For all abilities, the characters in the grapple count as a single target.
+
 **Predisposition**  
 Since attributes quantify a character's backstory and their history with certain types of activities, a character might quickly pick up the basics of the things if they've had similar experiences.  
 Things they have no experience with would be more difficult.  
