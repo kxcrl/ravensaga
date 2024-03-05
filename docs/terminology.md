@@ -64,13 +64,13 @@ These options will not significantly change your experience, so use whatever fee
 **1/1'** is read as "1 per 1 square" and will usually be encountered as an ability cost, where it means, for example, 1 Corruption for every 1 square of distance.
 
 All basic actions and effects that are the result of normal events are referred to as **Mundane**.  
-All fantastic, mystical, or otherworldly effects are referenced as **Distortion**.  
-If distortion is expressly damaging or destructive, it is referred to as **Corruption**.  
-Someone who practices sorcery may experience distortion reverberating through a wall as they witness strange effects in an underground room.  
-They may then experience Corruption within their own body by attempting to control it.
+All fantastic, mystical, or otherworldly effects are referred to as **Distortion**.  
+When distortion damages organic things (characters, creatures, and nature), harming them in ways they have trouble healing, it is referred to as **Corruption**.  
+Someone who practices sorcery may sense Distortion reverberating through a wall as they witness strange effects in an underground room.  
+They may then experience Corruption as their body burns and warps while they attempt to channel and control it.
 
 Throughout your adventure, you will lose **HP** and gain temporary **Corruption**. Both recover at the rate of 1 point per hour (every 6 turns).  
-Many other things may cause damage directly to your Attributes. These heal at 1 point per day.
+Many other things may cause damage directly to your Attributes. These heal at 1 point per day.  
 Any points of Corruption beyond your character's Corruption Threshold instantly become permanent. These points are never reduced unless by exceptional means.  
 Whenever a character gains permanent Corruption, they must pass a Resolute check or take that much damage. If this reduces their HP to 0 or less, they are consumed.
 
@@ -80,5 +80,3 @@ If it is an Attribute, then that attribute is reduced by that amount.
 If it is Corruption, then the character's Temporary Corruption cannot be reduced below that amount.  
 This continues as long as the effect is active.  
 Once the ability is stopped by the character or otherwise ends, anything missing recovers at the normal rate.
-
-Drinking multiple elixirs causes **Side Effects**. See **table** for more information.

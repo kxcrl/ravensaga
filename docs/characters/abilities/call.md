@@ -8,7 +8,7 @@ has_children: false
 
 ## Call
 _It was never in any other hand_  
-_But yours_
+_But mine_
 
 **Rank:** I  
 **Cost:** Corruption, item size and 1/1' distance
