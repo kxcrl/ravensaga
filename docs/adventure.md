@@ -7,4 +7,4 @@ has_children: true
 
 # Adventure
 
-Scenes occur with two levels of granularity: Exploration and Turn-Based.
+Scenes occur with three levels of granularity: Open, Segmented, and Journeying.

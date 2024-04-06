@@ -12,5 +12,5 @@ has_children: false
 
 Instantly kill a target that is completely unaware of you.
 
-**Success by 3**
+**Success by 3**  
 Hide any trace of violence
