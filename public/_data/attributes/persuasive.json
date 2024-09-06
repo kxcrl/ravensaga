@@ -1,0 +1,26 @@
+{
+  "title": "Persuasive",
+  "description": "convince, intimidate, empathize, advise, fascinate, sway",
+  "data": [
+    {
+      "num": 3,
+      "desc": "By choice or by necessity, you wear your solitude like a coat of iron.<br>Wherever you go, none will follow."
+    },
+    {
+      "num": 7,
+      "desc": "The things you cannot hide make most suspicious.<br>Your beliefs may align, but it's rare that others can see it."
+    },
+    {
+      "num": 10,
+      "desc": "Welcome at the pub, eyed at the courts.<br>As foolish or foolhardy as any, and every bit as compelling."
+    },
+    {
+      "num": 14,
+      "desc": "An open ear, a rousing song, a sense of purpose that makes most look twice.<br>Wanted or not, someone is always following in your footsteps."
+    },
+    {
+      "num": 18,
+      "desc": "A few words can unbar a kingdom. They drip across your tongue.<br>You are enthralling to speak to, or terrifying."
+    }
+  ]
+}

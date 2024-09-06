@@ -1,0 +1,26 @@
+{
+  "title": "Strong",
+  "description": "bend, break, lift, carry, push, pull",
+  "data": [
+    {
+      "num": 3,
+      "desc": "..."
+    },
+    {
+      "num": 7,
+      "desc": "..."
+    },
+    {
+      "num": 10,
+      "desc": "..."
+    },
+    {
+      "num": 14,
+      "desc": "..."
+    },
+    {
+      "num": 18,
+      "desc": "..."
+    }
+  ]
+}

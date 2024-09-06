@@ -1,0 +1,30 @@
+---
+title: Abilities
+layout: default
+---
+
+<h1>Abilities</h1>
+
+<p>
+<em>
+  That which almost none can do, shared only by those that dedicate their lives.
+</em>
+<br>
+Rare, reality bending capacities that can destroy a character just through the attempt to gain them.
+<br>
+Their use often invites corruption.
+<br>
+They are learned from secret orders, ancient tomes, and lost artifacts.
+<br>
+The xp cost is 10 * the ability Rank and is often much higher than most skills.
+</p>
+
+<div class="spacer"></div>
+
+<ul class="list">
+  {% for section in collections.abilities %}
+    <li class="list-item">
+      <a href="{{ section.url }}" class="nav-list-link">{{ section.data.title }}</a>
+    </li>
+  {% endfor %}
+</ul>

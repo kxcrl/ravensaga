@@ -1,0 +1,27 @@
+---
+title: Traits
+layout: default
+---
+
+<h1>Traits</h1>
+<p>
+<em>
+  The advantages and burdens that each carry through their journey.
+</em>
+<br>
+You have them or you don’t.
+<br>
+They may be gained through great and terrible deeds and only shed through the same.
+<br>
+They have no cost and are added or removed from characters entirely through their interaction with the fiction.
+</p>
+
+<div class="spacer"></div>
+
+<ul class="list">
+  {% for section in collections.traits %}
+    <li class="list-item">
+      <a href="{{ section.url }}" class="nav-list-link">{{ section.data.title }}</a>
+    </li>
+  {% endfor %}
+</ul>

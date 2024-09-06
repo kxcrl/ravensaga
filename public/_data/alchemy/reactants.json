@@ -1,0 +1,210 @@
+{
+  "title": "Reactants",
+  "description": "Distillable flora",
+  "data": [
+    {
+      "name": "Aconite, Flower",
+      "desc": "[E] Poison, Save against Death with a benefit of 6 - X.",
+      "cost": ""
+    },
+    {
+      "name": "Aconite, Root",
+      "desc": "[E] Flight, X turns<br>[E] Repel venemous creatures, werewolves, X turns<br>[E] Impede shapeshifting, X hours<br>[I] Advantage in any divination attempt, X'",
+      "cost": ""
+    },
+    {
+      "name": "Adder's Tongue, Leaves",
+      "desc": "[E] Heal X HP",
+      "cost": ""
+    },
+    {
+      "name": "Adder's Tongue, Root",
+      "desc": "[E] Charm, X days<br> [I] Charm, 1 day, X'",
+      "cost": ""
+    },
+    {
+      "name": "Allspice, Berries",
+      "desc": "[I] Advantage on Cunning checks, X'",
+      "cost": ""
+    },
+    {
+      "name": "Allspice, Leaves",
+      "desc": "[E] Advantage on all skill checks, X turns<br>[E] Add to any other elixir, (X * 10)% chance to double effect, destroys elixir otherwise",
+      "cost": ""
+    },
+    {
+      "name": "Althaea, Root",
+      "desc": "[I] Dispel magic, X'<br>[I] Witchsight, X'",
+      "cost": ""
+    },
+    {
+      "name": "Amaranth, Flower",
+      "desc": "[E] Speak with dead, X turns<br>[I] Pacify undead, X'",
+      "cost": ""
+    },
+    {
+      "name": "Amaranth, Seeds",
+      "desc": "[E] Invisibility, X turns",
+      "cost": ""
+    },
+    {
+      "name": "Angelica, Root",
+      "desc": "[E] Dispel curse, submerge object for 6 - X hours<br>[I] Dispel magic, X'",
+      "cost": ""
+    },
+    {
+      "name": "Basil, Leaves",
+      "desc": "[E] Antivenom, apply to bite, X in 6 chance<br>[I] Attract arachnids, X'",
+      "cost": ""
+    },
+    {
+      "name": "Bay, Leaves",
+      "desc": "[E] Dispel possession, X in 6 chance<br>[E] +X defense against lightning, 3 turns",
+      "cost": ""
+    },
+    {
+      "name": "Black Hellebore†",
+      "desc": "[E] Animate dead, X turns<br>[E] Advantage on Discreet checks, X turns",
+      "cost": ""
+    },
+    {
+      "name": "Bloodroot, Root",
+      "desc": "[E] Reflecting pool, X turns<br>Must have an object belonging to the person dissolved within it<br>Pour onto a surface for viewing, do not drink",
+      "cost": ""
+    },
+    {
+      "name": "Bog Myrtle†",
+      "desc": "[E] Clairvoyance, X', 1 turn<br>[S] Repel insects, pests, parasites, X turns",
+      "cost": ""
+    },
+    {
+      "name": "Burning Bush†",
+      "desc": "[E] Cure poison, X in 6 chance<br>[E] +X defense against fire, 3 turns",
+      "cost": ""
+    },
+    {
+      "name": "Calabar Bean, Seed",
+      "desc": "[E] Detect distortion, X days<br>Liquid itself emits a soft yellow light, do not drink",
+      "cost": ""
+    },
+    {
+      "name": "Calendula, Leaves",
+      "desc": "[E] Advantage on Persuasive checks if used as perfume, X turns",
+      "cost": ""
+    },
+    {
+      "name": "Calendula, Flowers",
+      "desc": "[E] True sight for X turns against deception, invisibility, illusion",
+      "cost": ""
+    },
+    {
+      "name": "Calotropis, Flowers",
+      "desc": "[I] Charm snakes and reptiles, X'",
+      "cost": ""
+    },
+    {
+      "name": "Calotropis, Root",
+      "desc": "[I] Cure/prevent paralysis, X'",
+      "cost": ""
+    },
+    {
+      "name": "Catnip‡",
+      "desc": "[E] Sleep, X turns<br>[E] Polymorph, feline, X turns<br>[I] Charm felines, X'",
+      "cost": ""
+    },
+    {
+      "name": "Cedar, Bark",
+      "desc": "[I] Turn undead, X'",
+      "cost": ""
+    },
+    {
+      "name": "Chamomile, Flowers",
+      "desc": "[E] Sleep, X turns<br>[S] Merchant affinity, (X * 2)% discount when haggling, 1 day",
+      "cost": ""
+    },
+    {
+      "name": "Chrysanthemum, Flowers",
+      "desc": "[E] Close portal, X turns<br>Pour onto surface, do not drink",
+      "cost": ""
+    },
+    { "name": "Cinnamon", "desc": "", "cost": "" },
+    { "name": "Clove", "desc": "", "cost": "" },
+    { "name": "Clover", "desc": "", "cost": "" },
+    { "name": "Coltsfoot", "desc": "", "cost": "" },
+    { "name": "Comfrey", "desc": "", "cost": "" },
+    { "name": "Dandelion", "desc": "", "cost": "" },
+    { "name": "Deadly", "desc": "", "cost": "" },
+    { "name": "Dogwood", "desc": "", "cost": "" },
+    { "name": "Dragon", "desc": "", "cost": "" },
+    { "name": "Edelweiss", "desc": "", "cost": "" },
+    { "name": "Elder", "desc": "", "cost": "" },
+    { "name": "Fern", "desc": "", "cost": "" },
+    { "name": "Foxglove", "desc": "", "cost": "" },
+    { "name": "Frankincense", "desc": "", "cost": "" },
+    { "name": "Fumitory", "desc": "", "cost": "" },
+    { "name": "Galbanum", "desc": "", "cost": "" },
+    { "name": "Garlic", "desc": "", "cost": "" },
+    { "name": "Geranium", "desc": "", "cost": "" },
+    { "name": "Ginger", "desc": "", "cost": "" },
+    { "name": "Ginseng", "desc": "", "cost": "" },
+    { "name": "Hawkweed", "desc": "", "cost": "" },
+    { "name": "Hawthorn", "desc": "", "cost": "" },
+    { "name": "Heal", "desc": "", "cost": "" },
+    { "name": "Heather", "desc": "", "cost": "" },
+    { "name": "Hemlock", "desc": "", "cost": "" },
+    { "name": "holly", "desc": "", "cost": "" },
+    { "name": "Horsetail", "desc": "", "cost": "" },
+    { "name": "Ivy", "desc": "", "cost": "" },
+    { "name": "Juniper", "desc": "", "cost": "" },
+    { "name": "Knotgrass", "desc": "", "cost": "" },
+    { "name": "Lady", "desc": "", "cost": "" },
+    { "name": "Lavendar", "desc": "", "cost": "" },
+    { "name": "Lemon", "desc": "", "cost": "" },
+    { "name": "Life", "desc": "", "cost": "" },
+    { "name": "Lily", "desc": "", "cost": "" },
+    { "name": "Linden", "desc": "", "cost": "" },
+    { "name": "Lotus", "desc": "", "cost": "" },
+    { "name": "Lucky", "desc": "", "cost": "" },
+    { "name": "Mandrake", "desc": "", "cost": "" },
+    { "name": "Mint", "desc": "", "cost": "" },
+    { "name": "Mistletoe", "desc": "", "cost": "" },
+    { "name": "Moonwort", "desc": "", "cost": "" },
+    { "name": "Mugwort", "desc": "", "cost": "" },
+    { "name": "Mullein", "desc": "", "cost": "" },
+    { "name": "Myrrh", "desc": "", "cost": "" },
+    { "name": "Nettle", "desc": "", "cost": "" },
+    { "name": "Oak", "desc": "", "cost": "" },
+    { "name": "Oregano", "desc": "", "cost": "" },
+    { "name": "Parsley", "desc": "", "cost": "" },
+    { "name": "Peony", "desc": "", "cost": "" },
+    { "name": "Pine", "desc": "", "cost": "" },
+    { "name": "Plantain", "desc": "", "cost": "" },
+    { "name": "Pomegranate", "desc": "", "cost": "" },
+    { "name": "Poppy", "desc": "", "cost": "" },
+    { "name": "Primrose", "desc": "", "cost": "" },
+    { "name": "Purslane", "desc": "", "cost": "" },
+    { "name": "Raspberry", "desc": "", "cost": "" },
+    { "name": "Razkovniche", "desc": "", "cost": "" },
+    { "name": "Rose", "desc": "", "cost": "" },
+    { "name": "Rosemary", "desc": "", "cost": "" },
+    { "name": "Rowan", "desc": "", "cost": "" },
+    { "name": "Rue", "desc": "", "cost": "" },
+    { "name": "Sage", "desc": "", "cost": "" },
+    { "name": "Sandalwood", "desc": "", "cost": "" },
+    { "name": "Skullcap", "desc": "", "cost": "" },
+    { "name": "Snapdragon", "desc": "", "cost": "" },
+    { "name": "Star", "desc": "", "cost": "" },
+    { "name": "Strychnine", "desc": "", "cost": "" },
+    { "name": "Sunflower", "desc": "", "cost": "" },
+    { "name": "Sweetgrass", "desc": "", "cost": "" },
+    { "name": "Thistle", "desc": "", "cost": "" },
+    { "name": "Thyme", "desc": "", "cost": "" },
+    { "name": "Vervain", "desc": "", "cost": "" },
+    { "name": "Willow", "desc": "", "cost": "" },
+    { "name": "Witch", "desc": "", "cost": "" },
+    { "name": "Woad", "desc": "", "cost": "" },
+    { "name": "Wormwood", "desc": "", "cost": "" },
+    { "name": "Yarrow", "desc": "", "cost": "" },
+    { "name": "Yew", "desc": "", "cost": "" }
+  ]
+}

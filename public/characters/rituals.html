@@ -1,0 +1,27 @@
+---
+title: Rituals
+layout: default
+---
+
+<h1>Rituals</h1>
+
+<p>
+<em>
+The sacred arts by whose careful application the world may be changed from afar.
+</em>
+<br>
+
+If known, can be performed over the course of an hour, requiring absolute concentration and the sacrifice of many different components.
+<br>
+If on a scroll, can be performed once, destroying the scroll.
+</p>
+
+<div class="spacer"></div>
+
+<ul class="list">
+  {% for section in collections.rituals %}
+    <li class="list-item">
+      <a href="{{ section.url }}" class="nav-list-link">{{ section.data.title }}</a>
+    </li>
+  {% endfor %}
+</ul>

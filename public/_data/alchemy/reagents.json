@@ -1,0 +1,46 @@
+{
+  "title": "Reagents",
+  "description": "Mediums for extraction",
+  "data": [
+    {
+      "name": "Spirit of Wood",
+      "desc": "A colorless liquid, scented like a weak rum.<br>Destructively distilled from the wood of any tree.<br>The cheapest and easiest to obtain.<br>Less effective than Aqua Ragia, but only mildly poisonous.",
+      "cost": "1: 1s<br>2: 1t<br>3: 5t"
+    },
+    {
+      "name": "Aqua Ragia",
+      "desc": "An amber colored liquid, with a pungent cadaver scent.<br>It can be distilled from the resin of nearly any pine tree, though yields vary greatly between species.<br>The resin is collected by making shallow diagonal cuts, resembling the whiskers of a cat.<br>Moderate in both price and difficulty to make.<br>Very poisonous if mishandled, always impure.",
+      "cost": "2: 8s<br>3: 4t<br>4: 10t"
+    },
+    {
+      "name": "Aqua Vitae",
+      "desc": "A colorless liquid, scented like a strong alcohol.<br>Distilled most commonly from wine, but other drinking spirits may be used.<br>Finer spirits result in greater purity.<br>Expensive to begin with, but becomes dramatically moreso as purity increases.<br>The most effective solvent and the only one able to reach full purity.<br>Harmless when handled.",
+      "cost": "4: 20t<br>5: 50t<br>6: 100t"
+    },
+    {
+      "name": "Aqua Fortis",
+      "desc": "Used most readily for creating shock- and thermally- sensitive explosives.<br>Can be added to any alchemical mixture to create a blast effect.<br>As the pure version is too reactive and the impure version is just as effective, purity is no obstacle.",
+      "cost": "6: 50t"
+    },
+    {
+      "name": "Spirit of Hartshorn",
+      "desc": "Isolated from volcanic salts.<br>Will dissolve most metals to produce a conductive liquid.",
+      "cost": "6: 50t"
+    },
+    {
+      "name": "Spirit of Salt",
+      "desc": "Made by mixing Oil of Vitriol and table salt.<br>Treats leather, descales metal, and cleans mortar from brickwork.<br>Relatively safe to handle, despite its high acidity.",
+      "cost": "6: 3s"
+    },
+    {
+      "name": "Oil of Vitriol",
+      "desc": "Byproduct of burned oils.<br>An excellent solvent, but its high reactivity gives it a 5 in 6 chance to destroy whatever is dissolved within it.",
+      "cost": "6: 1s"
+    },
+    {
+      "name": "Aqua Regia",
+      "desc": "Alchemy's most prized achievement, a liquid that can dissolve gold.<br>Will also dissolve platinum, but much more slowly.<br>Does not dissolve other metals.<br>Made of 1 part Aqua Fortis to 3 parts Spirit of Salt.<br>Clear after mixing, but turns yellow, then orange, then red within seconds.<br>Decomposes and loses all effectiveness within an hour if not stored properly, or after a week in perfect conditions.<br>Any magical item dissolved this way produces a greater activator.",
+      "cost": "6: 100t"
+    }
+  ]
+}

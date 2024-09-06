@@ -1,0 +1,59 @@
+{
+  "melee": {
+    "title": "Melee Weaponry",
+    "description": "Implements for close combat",
+    "data": [
+      { "name": "Axe, battle *",   "dmg": 8, "size": 1,    "cost": 5  },
+      { "name": "Axe, hand ‡",     "dmg": 6, "size": 1,    "cost": 2  },
+      { "name": "Club",            "dmg": 4, "size": 1,    "cost": 1  },
+      { "name": "Dagger ‡",        "dmg": 4, "size":"1/2", "cost": 2  },
+      { "name": "Flail *",         "dmg": 6, "size": 1,    "cost": 8  },
+      { "name": "Hammer, war *",   "dmg":10, "size": 2,    "cost": 1  },
+      { "name": "Lance",           "dmg": 6, "size": 1,    "cost": 6  },
+      { "name": "Mace",            "dmg": 6, "size": 1,    "cost": 10 },
+      { "name": "Polearm †",       "dmg": 8, "size": 1,    "cost": 10 },
+      { "name": "Spear *, †, ‡",   "dmg": 6, "size": 1,    "cost": 1  },
+      { "name": "Staff †",         "dmg": 6, "size": 1,    "cost": 0  },
+      { "name": "Sword, bastard*", "dmg": 8, "size": 1,    "cost": 20 },
+      { "name": "Sword, long†",    "dmg":10, "size": 2,    "cost": 15 },
+      { "name": "Sword, short",    "dmg": 6, "size": 1,    "cost": 8  }
+    ]
+  },
+  "ranged": {
+    "title": "Ranged Weaponry",
+    "description": "Implements for combat at distance",
+    "data": [
+      { "name": "Axe, thrown",     "dmg": 4, "rof": 1,    "range": 1, "size": 1,     "cost": 1    },
+      { "name": "Bow, long",       "dmg": 8, "rof": 2,    "range": 7, "size": 2,     "cost": 60   },
+      { "name": "Bow, short",      "dmg": 6, "rof": 2,    "range": 5, "size": 1,     "cost": 15   },
+      { "name": "Crossbow, heavy", "dmg":10, "rof":"1/2", "range": 8, "size": 2,     "cost": 20   },
+      { "name": "Crossbow, light", "dmg": 8, "rof": 1,    "range": 6, "size": 1,     "cost": 12   },
+      { "name": "Dagger",          "dmg": 3, "rof": 1,    "range": 2, "size": 1,     "cost": 2    },
+      { "name": "Dart",            "dmg": 2, "rof": 3,    "range": 3, "size":"1/20", "cost": ".2" },
+      { "name": "Javelin",         "dmg": 6, "rof": 1,    "range": 3, "size": 1,     "cost": ".5" },
+      { "name": "Sling",           "dmg": 3, "rof": 1,    "range": 1, "size": 1,     "cost": ".2" },
+      { "name": "Spear",           "dmg": 6, "rof": 1,    "range": 2, "size": 1,     "cost": 1    }
+    ]
+  },
+  "ammunition": {
+    "title": "Ammunition",
+    "description": "Standard armaments for ranged weaponry",
+    "data": [
+      { "name": "Arrows (20)",         "dmg": "+0", "size": "0*", "cost": 2    },
+      { "name": "Bolts, heavy (20)",   "dmg": "+1", "size": "1",  "cost": 4    },
+      { "name": "Bolts, light (20)",   "dmg": "+0", "size": "0*", "cost": 2    },
+      { "name": "Stones, sling (20)",  "dmg": "+0", "size": "0*", "cost": ".3" }
+    ]
+  },
+  "armor": {
+    "title": "Armor",
+    "description": "Wearable defense",
+    "data": [
+      { "name": "Studded",  "def": "+1", "size": "1", "cost": 10  },
+      { "name": "Chain",    "def": "+2", "size": "2", "cost": 30  },
+      { "name": "Plate",    "def": "+3", "size": "3", "cost": 100 },
+      { "name": "Shield",   "def": "+1", "size": "1", "cost": 20  },
+      { "name": "Helmet",   "def": "0*", "size": "1", "cost": 20  }
+    ]
+  }
+}

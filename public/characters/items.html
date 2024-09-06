@@ -1,0 +1,39 @@
+---
+title: Items
+layout: default
+---
+
+<h1>Items</h1>
+
+<p>
+<em>
+The mediums of every act to come.
+</em>
+<br>
+</p>
+
+<p>
+The many things that fill a backpack, are gripped in a hand, or rest upon the body.
+<br>
+The amount that can be carried is determined by how Strong a character is, a base of 13 available slots with 1 more for every 2 points of strength above 3.
+<br>
+As these slots fill, movement speed slows.
+<br>
+A sack carried in two hands may double the available slots.
+<br>
+Carried in one hand, it grants half as much.
+<br>
+Packed items require a turn to dig out.
+<br>
+Equipped items are available at a moment's notice, but only so many scabbards and quivers can be strapped to the body without causing a burden of their own.
+</p>
+
+<div class="spacer"></div>
+
+<ul class="list">
+  {% for section in collections.items %}
+    <li class="list-item">
+      <a href="{{ section.url }}" class="nav-list-link">{{ section.data.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
