@@ -54,6 +54,11 @@ p.sub {
   background-color: rgb(28, 31, 32);
 }
 
+.list-prefix {
+  display: inline-block;
+  width: 30px;
+}
+
 .spacer {
   height: 10px;
 }

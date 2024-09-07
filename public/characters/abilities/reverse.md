@@ -1,9 +1,7 @@
 ---
 title: Reverse
 layout: default
-parent: Abilities
-grand_parent: Characters
-has_children: false
+rank: VI
 ---
 
 ## Reverse
@@ -11,7 +9,7 @@ _Rework the present_
 _Embody the past_
 
 **Rank:** VI  
-**Cost:** Corruption, 1d8 + 1/turn that has passed  
+**Cost:** Corruption, 1d8 + 1/round that has passed  
 **Range:** Touch  
 **Known By**: Sorcerers
 

@@ -1,9 +1,7 @@
 ---
 title: Illuminate
 layout: default
-parent: Abilities
-grand_parent: Characters
-has_children: false
+rank: I
 ---
 
 ## Illuminate

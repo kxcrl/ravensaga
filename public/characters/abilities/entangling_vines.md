@@ -1,9 +1,7 @@
 ---
 title: Entangling Vines
 layout: default
-parent: Abilities
-grand_parent: Characters
-has_children: false
+rank: II
 ---
 
 ## Entangling Vines

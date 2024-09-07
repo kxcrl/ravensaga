@@ -1,9 +1,7 @@
 ---
 title: Animate Dead
 layout: default
-parent: Abilities
-grand_parent: Characters
-has_children: false
+rank: III
 ---
 
 ## Animate Dead

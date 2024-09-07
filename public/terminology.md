@@ -43,7 +43,7 @@ There are a few ways that these will be rolled in the game, described as follows
 
 Most actions while **Exploring** take place over a number of **Turns**, roughly 10 minutes each.
 
-In moments of high intensity where more granularity is needed, the GM may **stop the clock** and instead move to **Segmented** mode.  
+In moments of high intensity where more granularity is needed, the GM may **stop the clock** and instead move to **Segmented** play.  
 Each character present acts in order, with each action taking a **Segment**, usually a few seconds.  
 The time it takes all characters in a situation to act out each of their segments is one **Round**, usually one minute.
 

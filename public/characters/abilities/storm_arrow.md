@@ -1,9 +1,7 @@
 ---
 title: Storm Arrow
 layout: default
-parent: Abilities
-grand_parent: Characters
-has_children: false
+rank: II
 ---
 
 ## Storm Arrow

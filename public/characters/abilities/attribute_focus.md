@@ -1,9 +1,7 @@
 ---
 title: Attribute Focus
 layout: default
-parent: Abilities
-grand_parent: Characters
-has_children: false
+rank: III
 ---
 
 ## Attribute Focus
@@ -22,6 +20,6 @@ Instead, the character should visit someone who is very Strong, Accurate, Discre
 From then on, anytime they gain XP, they may choose to allocate some to it.  
 Once it has 30 XP, it takes effect.
 
-After it has been taken 5 times, the character must also subtract 1 from another attribute in order for it to take effect.
+After it has been taken 3 times, the character must also subtract 1 from another attribute in order for it to take effect.
 
 The trainer's attributes must be at least as high as the result of the ability to offer training.

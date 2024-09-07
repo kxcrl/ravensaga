@@ -1,6 +1,7 @@
 ---
 title: Animate
 layout: default
+rank: I
 ---
 
 ## Animate

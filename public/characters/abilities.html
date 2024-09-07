@@ -24,7 +24,7 @@ The xp cost is 10 * the ability Rank and is often much higher than most skills.
 <ul class="list">
   {% for section in collections.abilities %}
     <li class="list-item">
-      <a href="{{ section.url }}" class="nav-list-link">{{ section.data.title }}</a>
+      <div class="list-prefix">{{ section.data.rank }}</div> <a href="{{ section.url }}" class="nav-list-link">{{ section.data.title }}</a>
     </li>
   {% endfor %}
 </ul>
