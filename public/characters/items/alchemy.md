@@ -1,9 +1,6 @@
 ---
 title: Alchemy
 layout: default
-parent: Items
-grand_parent: Characters
-has_children: false
 ---
 
 <table>

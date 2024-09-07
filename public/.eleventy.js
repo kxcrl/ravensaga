@@ -64,5 +64,7 @@ module.exports = function(eleventyConfig) {
     })
   );
 
-  return { passthroughFileCopy: true };
+  return {
+    passthroughFileCopy: true
+  };
 };

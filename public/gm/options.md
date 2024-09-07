@@ -61,44 +61,64 @@ You may also use this only on occasion instead of replacing single character rew
 **Mutative Corruption**  
 Instead of dealing damage to HP when a character fails their Resolute check, you may take the failure amount, add it to the total of their current temporary and permanent corruption, then roll a 1d4 and consult the following table.
 
---  | 1 - Senses    | 2 - Body    | 3 - Mind     | 4 - Shadow
-<10 | -1d4 Vigilant | -1d4 Strong | -1d4 Cunning | -1d4 Resolute
-11  | Blind to normal color. Can see kaleidoscopes across the infrared. -5 accurate handling anything that doesn't give off heat. Can see heat signatures even in total darkness. | ... | ... | ...
-12  | ... | Body withers. -2 max Strong. | ... | ...
-13  | ... | ... | ... | ...
-14  | ... | ... | ... | ...
-15  | ... | ... | ... | ...
-16  | ... | Combust. 1d6 damage per turn until extinguished. All flammable equipment burns. | ... | ...
-17  | ... | ... | Gain a random ability. Lose all unspent XP. | ...
-18  | ... | Reassembled. Swap two attributes.<br />1d8 to determine (reroll on match) | Cascading loss. Roll 1d6 for each skill and ability.<br />On 3 or less, remove it. | ...
-19  | Sharpened by nightmares. 1d6 damage. Reroll Vigilant as 4d6 (max 18) | Reforged by warp. 1d6 damage. Add 1d6 to max Accurate, Discreet, Quick, or Strong (1d4 to determine). | Unwavering focus. 1d6 damage. +1 to max Cunning (max 18) | Reborn in darkness. Remove all corruption. Change Corruption Threshold equal to Resolute. If it is ever exceeded, permanently lose control of the character.
-20+ | Incomprehensible. Reroll max Discreet and max Vigilant as 1d6. | Inversion. 1d20+10 damage.<br />Reroll Strong and Quick as 1d6 if survived. | Shatter. Reroll Cunning and Resolute as 1d6. | Dissolution. Character dies.
+<table>
+  <colgroup>
+    <col style="width: 50px" />
+    <col style="width: 300px" />
+    <col style="width: 300px" />
+    <col style="width: 300px" />
+    <col style="width: 300px" />
+  </colgroup>
+  <tr>
+    <th colspan="5">
+      <h2> {{ corruption.mutation.title }} </h2>
+      <em> {{ corruption.mutation.description }}</em>
+    </th>
+  </tr>
+  <tr>
+    <td class="blank"></td>
+    <td class="center">1 - Senses</td>
+    <td class="center">2 - Body</td>
+    <td class="center">3 - Mind</td>
+    <td class="center">4 - Shadow</td>
+  </tr>
+  {% for item in corruption.mutation.data %}
+    <tr>
+      <td>{{ item.num }}</td>
+      <td>{{ item.senses }}</td>
+      <td>{{ item.body }}</td>
+      <td>{{ item.mind }}</td>
+      <td>{{ item.shadow }}</td>
+    </tr>
+  {% endfor %}
+</table>
 
 **Area Destabilization**  
 If more than 20 points of Corruption are spent by characters and NPCs in an area, the excessive distortion destabilizes it.  
 Roll d100 and consult the following table.
 
-\# | Result        | Effect
-BL | Bleed         | Anything within slowly leaks without. Chests pour contents, packs drop items (1d4/round), plants drip water, characters lose blood (1d4 damage).
-CO | Combustion    | Each round a random object begins to smoke. Unless removed from the area, it ignites in the next.
-CO | Command       | Each character must make a RES check. Those who fail become enthralled to those who passed until they leave the area.
-CO | Conflagration | Erupting in to violent flame, everything in the room is consumed. 1d4 rounds of immense heat beforehand serves as warning.
-DI | Dislocate     | An exit (or a cardinal direction, in an open area) leads somewhere else. It may still be entered as normal.
-FI | Firestorm     | Like slow, thick droplets of rain, fire pools together and falls from above (2 damage per round, anything flammable burns).
-FL | Flood         | The area is underwater. Maximum 10' height, 10' width. Stops at walls, ceilings, and portals. Forms a vertical wall of water in open spaces.
-FR | Freeze        | In a flash, all is coated in ice. Characters must pass a STR check to break free.
-GA | Gate          | A hole tears through space leading to a random nearby location.
-GR | Gravity Well  | All weight increases dramatically. STR check at beginning of any segment or the character is pulled to the ground and spends the segment fighting to stand up.
-LE | Lethargy      | Make a Resolute check to crawl at half speed. Otherwise, sleep for one round. No other action may be taken.
-LI | Lightveins    | Bright, thin roots spread outward, marbling the air. The entire space is illuminated to an almost blinding degree, leaving no shadows. All things pass through them as if they were non-existent.
-MA | Mass Mutation | Every living thing in the room rolls 1d20 and consults the Mutative Corruption table.
-RE | Refraction    | Visual information swims and sways (-5 to anything relying on sight).
-SH | Shatter       | As a ball through glass, part of a surface breaks away, leaving massive cracks spidering across every other surface. May open to neighboring rooms, floors, etc.
-SI | Silent        | No sound can be made. Anything beyond may still be heard.
-SO | Soak: Oil     | Precipitating like dew, a random mix of oils and fats coat every surface (slick, flammable).
-SO | Soak: Water   | In an instant, the aftermath of a day long rainstorm. Fires are doused.
-TH | Thunderstorm  | Thick fog fills the area, lightning strikes a random target each round (1d12 damage).
-TI | Timewaves     | Each round, QUI is randomly halved or doubled. Reverse the effect if a character moves.
-UN | Unmoor        | No longer bound by gravity, everyone and everything floats. Characters and objects may get stuck in open spaces if their momentum is halted.
-VA | Vanish        | Everything in the area is invisible. Anything beyond may still be seen.
-VI | Violent Wind  | Whipping in all directions, all light objects become projectiles (persistent, random target, 1d4 damage).
+<table>
+  <colgroup>
+    <col style="width: 50px" />
+    <col style="width: 150px" />
+    <col />
+  </colgroup>
+  <tr>
+    <th colspan="3">
+      <h2> {{ corruption.destabilization.title }} </h2>
+      <em> {{ corruption.destabilization.description }}</em>
+    </th>
+  </tr>
+  <tr>
+    <td class="blank"></td>
+    <td class="center">Result</td>
+    <td class="center">Effect</td>
+  </tr>
+  {% for item in corruption.destabilization.data %}
+    <tr>
+      <td>{{ forloop.index }}</td>
+      <td>{{ item.name }}</td>
+      <td>{{ item.effect }}</td>
+    </tr>
+  {% endfor %}
+</table>

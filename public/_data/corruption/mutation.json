@@ -1,0 +1,83 @@
+{
+  "title": "Mutative Corruption",
+  "description": "How the body and soul warp in the presence of excess distortion",
+  "data": [
+    {
+      "num": "<10",
+      "senses": "-1d4 Vigilant",
+      "body": "-1d4 Strong",
+      "mind": "-1d4 Cunning",
+      "shadow": "-1d4 Resolute"
+    },
+    {
+      "num": "11",
+      "senses": "Blind to normal color. Can see kaleidoscopes across the infrared. -5 accurate handling anything that doesn't give off heat. Can see heat signatures even in total darkness.",
+      "body": "...",
+      "mind": "...",
+      "shadow": "..."
+    },
+    {
+      "num": "12",
+      "senses": "...",
+      "body": "Body withers. -2 max Strong.",
+      "mind": "...",
+      "shadow": "..."
+    },
+    {
+      "num": "13",
+      "senses": "...",
+      "body": "...",
+      "mind": "...",
+      "shadow": "..."
+    },
+    {
+      "num": "14",
+      "senses": "...",
+      "body": "...",
+      "mind": "...",
+      "shadow": "..."
+    },
+    {
+      "num": "15",
+      "senses": "...",
+      "body": "...",
+      "mind": "...",
+      "shadow": "..."
+    },
+    {
+      "num": "16",
+      "senses": "...",
+      "body": "Combust. 1d6 damage per turn until extinguished. All flammable equipment burns.",
+      "mind": "...",
+      "shadow": "..."
+    },
+    {
+      "num": "17",
+      "senses": "...",
+      "body": "...",
+      "mind": "Gain a random ability. Lose all unspent XP.",
+      "shadow": "..."
+    },
+    {
+      "num": "18",
+      "senses": "...",
+      "body": "Reassembled. Swap two attributes.<br>1d8 to determine (reroll on match)",
+      "mind": "Cascading loss. Roll 1d6 for each skill and ability.<br>On 3 or less, remove it.",
+      "shadow": "..."
+    },
+    {
+      "num": "19",
+      "senses": "Sharpened by nightmares. 1d6 damage. Reroll Vigilant as 4d6 (max 18)",
+      "body": "Reforged by warp. 1d6 damage. Add 1d6 to max Accurate, Discreet, Quick, or Strong (1d4 to determine).",
+      "mind": "Unwavering focus. 1d6 damage. +1 to max Cunning (max 18)",
+      "shadow": "Reborn in darkness. Remove all corruption. Change Corruption Threshold equal to Resolute. If it is ever exceeded, permanently lose control of the character."
+    },
+    {
+      "num": "20+",
+      "senses": "Incomprehensible. Reroll max Discreet and max Vigilant as 1d6.",
+      "body": "Inversion. 1d20+10 damage.<br>Reroll Strong and Quick as 1d6 if survived.",
+      "mind": "Shatter. Reroll Cunning and Resolute as 1d6.",
+      "shadow": "Dissolution. Character dies."
+    }
+  ]
+}
